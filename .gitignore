@@ -1,0 +1,4 @@
+# Cypress files
+*.mp4
+/node_modules
+cypress.env.json
