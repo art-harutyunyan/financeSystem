@@ -9,6 +9,7 @@ module.exports = defineConfig({
     defaultCommandTimeout: 6000,
     viewportHeight: 864,
     viewportWidth: 1536,
+    experimentalRunAllSpecs: true,
     $schema: "https://on.cypress.io/cypress.schema.json",
   },
 });
