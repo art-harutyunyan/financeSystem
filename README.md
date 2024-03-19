@@ -1,4 +1,4 @@
-# Project Name
+# Automation Project for Finance System
 
 Automated tests have been created for the Finance system, a comprehensive tool designed for accounting and controlling funds for small and medium-sized businesses. The tests ensure the reliability and functionality of key features such as user authentication, search functionality, and logout behavior
 
@@ -29,4 +29,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 After about 10 second you will see this ;)
 
-![Example screenshot](https://drive.google.com/file/d/1N5x7OR_NjDpfQkxi3KU2eB5By5xnmtnu/view?usp=drive_link)
+![Example screenshot](https://github.com/art-harutyunyan/financeSystem/blob/1f535c6847519e4424e73381adcea8c77e808008/financeTests.png)
