@@ -36,6 +36,7 @@ Cypress.Commands.add("loginViaAPI", (username, password) => {
       password: password,
     },
   }).then((res) => {
+    // storing the token as a cypress env variable
     Cypress.env("token", res.body.token);
     expect(res.status).to.equal(200);
     cookies.user.isAuthorized = true;
